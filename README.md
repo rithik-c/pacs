@@ -10,9 +10,14 @@ Lovers of Online shopping and E-commerce. We present to you, **Pacs**. A unique 
 
 ## ⬇️ Table of Contents
 
+* [App Preview](#--app-preview)
 * [Set-Up](#-set-up)
 * [Resources](#-resources)
-* [Collaborators](#-collaborators)
+* [License Info](#-license)
+
+## 💻  App Preview
+
+<img src="readme_resources/pacs-demo.png" alt="Screenshot of Pacs" title="Screenshot of Pacs" width="600"/>
 
 ## 🔨 Set-Up
 
@@ -43,20 +48,15 @@ Lovers of Online shopping and E-commerce. We present to you, **Pacs**. A unique 
     2. http://localhost:3000/cart navigates to simulated business-side checkout
     3. http://localhost:3000/portal navigates to the gateway from a business screen to our service, allowing the user to choose a locker before returning to the calling business' site
 
-## 📄 Resources
+## 📚 Resources
 
-Resources may not be avaible after HackThis6ix 2022 judging (08/21/2022)
-* [GitHub](https://github.com/SaqifAbrar/pacs) 
+Resources may not be available after HackThis6ix 2022 judging (08/21/2022)
+* [GitHub](https://github.com/rithik-c/pacs) 
 * [DevPost](https://devpost.com/software/project-lowkey) 
 * [Youtube](https://youtu.be/6NveoM4sxoo) 
 * [Figma](https://www.figma.com/file/rbBWEaPeFodavsq87He1kv/Pacs?node-id=0%3A1)
 * [Figjam](https://www.figma.com/file/53VWmI5ujlbq622F0f6M6w/Pacs?node-id=0%3A1)
 
+## 📄 License
 
-## 👥 Collaborators
-
-| Name | GitHub | Linkedin |
-| ------ | ------ | ------ | 
-| Saqif Abrar| [saqifabrar](https://www.github.com/SaqifAbrar) | [saqifabrar](https://www.linkedin.com/in/saqifabrar/) |
-| Zaza Hashmi | [Kayeris](https://github.com/Kayeris) | [shaiza-hashmi](https://www.linkedin.com/in/shaiza-hashmi/) |
-| Rithik Choudhary | [rithik-c](https://github.com/rithik-c) | [rithik-c](https://www.linkedin.com/in/rithik-c/) |
+Pacs is freely available under the MIT license.
