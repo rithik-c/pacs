@@ -52,7 +52,7 @@ Lovers of Online shopping and E-commerce. We present to you, **Pacs**. A unique 
 
 Resources may not be available after HackThis6ix 2022 judging (08/21/2022)
 * [GitHub](https://github.com/rithik-c/pacs) 
-* [DevPost](https://devpost.com/software/project-lowkey) 
+* [DevPost](https://devpost.com/software/project-pacs) 
 * [Youtube](https://youtu.be/6NveoM4sxoo) 
 * [Figma](https://www.figma.com/file/rbBWEaPeFodavsq87He1kv/Pacs?node-id=0%3A1)
 * [Figjam](https://www.figma.com/file/53VWmI5ujlbq622F0f6M6w/Pacs?node-id=0%3A1)
